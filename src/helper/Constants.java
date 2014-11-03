@@ -11,7 +11,7 @@ package helper;
 public class Constants {
 	
 	// Server IP Address
-	public static String SERVER_ADDRESS = "167.205.33.99";
+	public static String SERVER_ADDRESS = "167.205.33.58";
 	
 	// Server Port
 	public static int SERVER_PORT = 27017;
